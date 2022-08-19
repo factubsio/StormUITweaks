@@ -16,7 +16,7 @@ Quality of life, zero-balance, changes to Against the Storm.
 
 3. Run the game, this will populate some folders/config files, exit the game.
 
-4. Download the mod: 
+4. Download the mod: https://github.com/factubsio/StormUITweaks/releases/latest
 
 4. Put the mod .dll into the `Bepinx\Plugins\` folder, it should look like:
 <img width="560" alt="plugins_setup" src="https://user-images.githubusercontent.com/65080026/185709865-e32c926e-d021-4d68-8cb5-c686316a059e.PNG">
